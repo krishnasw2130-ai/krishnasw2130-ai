@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Krishna Chaurasiya 👋
 
-<!--
-**krishnasw2130-ai/krishnasw2130-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech AI/ML student from Andhra Pradesh, India.
+I'm learning in public and building projects every week.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- C Programming
+- Data Structures & Algorithms (DSA)
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals (till May 2028)
+- Build 5-6 solid projects
+- Solve 300+ DSA problems
+- Contribute to open source
+- Get into AI/ML (Machine Learning, Deep Learning)
+
+## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📫 Contact
+- Email: krishnasw2130@gmail.com
+
+---
+⭐ Follow my journey. New projects coming soon!
