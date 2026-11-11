@@ -21,7 +21,7 @@ I'm learning in public and building projects every week.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📫 Contact
-- Email: krishnasw2130@gmail.com
+- Email: krishna.21chaurasiya@gmail.com
 
 ---
 ⭐ Follow my journey. New projects coming soon!
